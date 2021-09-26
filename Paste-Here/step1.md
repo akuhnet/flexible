@@ -1,6 +1,5 @@
-Free 4H
+If the terminal Error Details: Environment not starting correctly.
 
-If the terminal doesn't open reload this tab.
-
+Reload this tab
 
 If this works for you please support akuh.net thank you
