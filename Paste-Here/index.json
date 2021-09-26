@@ -1,0 +1,23 @@
+{
+  "title": "Paste Here",
+  "description": "4 H",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+     "hidefinish": true,
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster:1.18"
+  }
+}
