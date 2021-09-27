@@ -1,9 +1,11 @@
-If the terminal Error Details: Environment not starting correctly.
+Terminal 1 = 2GB
 
-Reload this tab
+Terminal 2 = 4GB
 
-Windows? update soon
+VPS always run 24/7/30
 
-Currently still focused on linux
+Don't close this tab the vps will stop
 
-If this works for you please support akuh.net thank you
+If this works for you leave a thanks
+
+By clicking 1 ad thanks you
