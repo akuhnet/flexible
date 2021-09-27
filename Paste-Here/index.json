@@ -1,10 +1,10 @@
 {
   "title": "Paste Here",
-  "description": "Free 4 H",
+  "description": "Free 24/7/30",
   "details": {
     "steps": [
       {
-        "title": "Free VPS 4H",
+        "title": "VPS Always Run",
         "text": "step1.md"
       }
     ],
@@ -15,7 +15,7 @@
   "environment": {
      "hidefinish": true,
     "hideintro": true,
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
     "imageid": "kubernetes-cluster:1.18"
