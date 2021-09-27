@@ -1,0 +1,23 @@
+{
+  "title": "Just Paste Here",
+  "description": "Free 4 H",
+  "details": {
+    "steps": [
+      {
+        "title": "Free 4H",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+     "hidefinish": true,
+    "hideintro": true,
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running:1.18"
+  }
+}
