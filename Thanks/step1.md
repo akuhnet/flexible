@@ -1,7 +1,5 @@
-If the terminal Error Details: Environment not starting correctly.
+it takes 3-4 minutes
 
-Reload this tab
+if this works for you leave a thank
 
-If this works for you
-
-Support akuh.net thank you
+by clicking 1 ad thanks
