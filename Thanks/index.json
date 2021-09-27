@@ -15,7 +15,7 @@
   "environment": {
      "hidefinish": true,
     "hideintro": true,
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal-terminal"
   },
   "backend": {
     "imageid": "openjdk:15"
