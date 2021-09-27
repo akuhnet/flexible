@@ -18,6 +18,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "python:3.8"
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }
