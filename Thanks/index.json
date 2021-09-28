@@ -19,6 +19,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "rust:1.44.1	"
+    "imageid": "kotlin:1.3.61"
   }
 }
