@@ -19,6 +19,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "openjdk:15"
+    "imageid": "rust:1.44.1	"
   }
 }
