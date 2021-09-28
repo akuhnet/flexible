@@ -16,9 +16,9 @@
   "environment": {
      "hidefinish": true,
     "hideintro": true,
-    "uilayout": "terminal-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu:1804"
+    "imageid": "openjdk:15"
   }
 }
