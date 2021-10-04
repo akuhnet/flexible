@@ -16,7 +16,7 @@
   "environment": {
      "hidefinish": true,
     "hideintro": true,
-    "uilayout": "terminal-terminal"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "kotlin:1.3.61"    
