@@ -25,11 +25,10 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Open desktop", "href": "https://[[HOST2_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/vnc.html?autoconnect=true", "port": 8080}],
+    "dashboards": [{"name": "Open RDP", "href": "https://[[HOST2_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/vnc.html?autoconnect=true", "port": 8080}],
     "hidefinish": true,
     "hideintro": true,
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mBrought to you by .581.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "kubernetes-cluster",
