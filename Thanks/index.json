@@ -1,24 +1,35 @@
 {
   "noindex": true,
-  "title": "Just Paste Here",
+  "title": "Windows Server 2022 Standard",
+  "difficulty": "intermediate",
   "time": "240 minutes",
-  "description": "Free 4H",
+  "description": "Automatically run Windows Server 2022 Standard x64 2 CPU / 3GB RAM",
   "details": {
     "steps": [
       {
-        "title": "Note:",
-        "text": "step1.md"
+        "title": "Create Your Windows Server 2022 Standard RDP",
+        "text": "step1.md",
+        "courseData": "background.sh",
+        "code": "foreground.sh"
       }
     ],
-    "finish": {
-      "text": "finish.md"
+    "assets": {
+      "node01": [
+        {
+          "file": "wait.sh",
+          "target": "/usr/local/bin/",
+          "chmod": "+x"
+        }
+      ]
     }
   },
   "environment": {
+    "showdashboard": true,
     "dashboards": [{"name": "Open desktop", "href": "https://[[HOST2_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/vnc.html?autoconnect=true", "port": 8080}],
     "hidefinish": true,
     "hideintro": true,
     "uilayout": "terminal",
+    "uimessage1": "\u001b[32mBrought to you by fb.com/thuong.hai.581.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "kubernetes-cluster",
