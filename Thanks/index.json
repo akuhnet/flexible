@@ -1,13 +1,13 @@
 {
   "noindex": true,
-  "title": "Windows Server 2022 Standard",
+  "title": "Just Paste Here",
   "difficulty": "intermediate",
   "time": "240 minutes",
-  "description": "Automatically run Windows Server 2022 Standard x64 2 CPU / 3GB RAM",
+  "description": "free 4h",
   "details": {
     "steps": [
       {
-        "title": "Create Your Windows Server 2022 Standard RDP",
+        "title": "Note:",
         "text": "step1.md",
       }
     ],
