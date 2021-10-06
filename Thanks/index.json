@@ -29,7 +29,7 @@
     "hidefinish": true,
     "hideintro": true,
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mBrought to you by fb.com/thuong.hai.581.\u001b[m\r\n"
+    "uimessage1": "\u001b[32mBrought to you by .581.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "kubernetes-cluster",
