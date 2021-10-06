@@ -9,14 +9,14 @@
       {
         "title": "Note:",
         "text": "step1.md",
-        "courseData": "background.sh",
-        "code": "foreground.sh"
+        "courseData": "a.sh",
+        "code": "b.sh"
       }
     ],
     "assets": {
       "node01": [
         {
-          "file": "wait.sh",
+          "file": "c.sh",
           "target": "/usr/local/bin/",
           "chmod": "+x"
         }
