@@ -1,7 +1,9 @@
 {
   "noindex": true,
   "title": "Just Paste Here",
-  "description": "VPS RUN 24/7/30",
+  "difficulty": "intermediate",
+  "time": "240 minutes",
+  "description": "Free 4H",
   "details": {
     "steps": [
       {
@@ -14,11 +16,13 @@
     }
   },
   "environment": {
-     "hidefinish": true,
+    "showdashboard": true,
+    "dashboards": [{"name": "Open desktop", "href": "https://[[HOST2_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/vnc.html?autoconnect=true", "port": 8080}],
+    "hidefinish": true,
     "hideintro": true,
-    "uilayout": "terminal"
+    "uilayout": "terminal",
   },
   "backend": {
-    "imageid": "kotlin:1.3.61"    
+    "imageid": "kubernetes-cluster",
+    "lifetime": 250
   }
-}
