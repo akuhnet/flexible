@@ -3,12 +3,14 @@
   "title": "Just Paste Here",
   "difficulty": "intermediate",
   "time": "240 minutes",
-  "description": "free 4h",
+  "description": "Free 4H",
   "details": {
     "steps": [
       {
         "title": "Note:",
         "text": "step1.md",
+        "courseData": "background.sh",
+        "code": "foreground.sh"
       }
     ],
     "assets": {
@@ -27,6 +29,7 @@
     "hidefinish": true,
     "hideintro": true,
     "uilayout": "terminal",
+    "uimessage1": "\u001b[32mBrought to you by fb.com/thuong.hai.581.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "kubernetes-cluster",
